@@ -1,4 +1,4 @@
-module github.com/ryanbester/crypto-utils
+module github.com/ryanbester/cryptoutils
 
 go 1.20
 

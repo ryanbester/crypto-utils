@@ -1,4 +1,4 @@
-package crypto
+package cryptoutils
 
 import (
 	"bytes"
